@@ -7,6 +7,7 @@ docker build --tag hardid/ubuntu_nginx .
 
 
 #When you entered upper command
+```
 
 Sending build context to Docker daemon  63.49kB
 Step 1/4 : FROM ubuntu
@@ -315,4 +316,4 @@ Removing intermediate container 4616d5050b4b
 Successfully built 329255506ee1
 Successfully tagged hardid/ubuntu_nginx:latest
 SECURITY WARNING: You are building a Docker image from Windows against a non-Windows Docker host. All files and directories added to build context will have '-rwxr-xr-x' permissions. It is recommended to double check and reset permissions for sensitive files and directories.
-'''
+```

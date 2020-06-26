@@ -2,7 +2,7 @@
 
 $ kubectl get svc
 NAME         TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)        AGE
-kubeexam     NodePort    10.106.252.163   <none>        80:32351/TCP   40s
+kubeexam     NodePort    10.107.71.55    <none>        80:31575/TCP   3m51s
 
 #Pod 20개
 
