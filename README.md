@@ -2,12 +2,12 @@
 Docker, K8S workshop submit
 
 #Usage
-'''
+
 docker build --tag hardid/ubuntu_nginx .
-'''
+
 
 #When you entered upper command
-'''
+
 Sending build context to Docker daemon  63.49kB
 Step 1/4 : FROM ubuntu
  ---> 74435f89ab78
