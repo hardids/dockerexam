@@ -10,3 +10,6 @@ $ kubectl get deployments
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE
 kubeexam    20/20   20           20          10m
 ```
+
+#Working Nginx Evidence
+![](k8s_nginx_working.PNG)
