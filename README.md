@@ -1,11 +1,18 @@
 # dockerexam
+```
 Docker, K8S workshop submit
-
+```
 #Usage
-
+```
 docker build --tag hardid/ubuntu_nginx .
+```
+
+#Result of Using
+```
+$ winpty docker run -it --name ex -p 8888:80 hardid/ubuntu_nginx
 
 
+```
 #When you entered upper command
 ```
 
