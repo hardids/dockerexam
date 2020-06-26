@@ -13,7 +13,9 @@ $ winpty docker run -it --name ex -p 8888:80 hardid/ubuntu_nginx
 
 
 ```
-#When you entered upper command
+![](docker_nginx_working.PNG)
+
+#When you entered Usage command
 ```
 
 Sending build context to Docker daemon  63.49kB
